@@ -19,8 +19,7 @@ const ruchir = {
 
 **DevOps:** Docker • Kubernetes • CI/CD • GitHub Actions
 
-**Databases:** PostgreSQL • MongoDB • Firebase • Elasticsearch
-
+**Databases:** MySQL • MongoDB • Firebase
 ---
 
 ## 🚀 Featured Projects
