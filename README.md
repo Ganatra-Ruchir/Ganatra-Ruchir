@@ -1,14 +1,11 @@
-# 👋 Rise at 4AM | Full-Stack Developer & Cybersecurity Enthusiast
-
+# 👋 Data Analyst and Web Developer | Cybersecurity Enthusiast
 ```
 const ruchir = {
   location: 'Ahmedabad, Gujarat 🇮🇳',
-  role: 'Full-Stack Developer | Security Researcher',
-  dailyRitual: '4AM rise ☀️ | Code 💻 | Build 🚀',
-  currentGoal: 'Securing the web, one app at a time',
-  hobbies: ['Bug Bounty', 'CTF Competitions', 'Open Source']
+  role: 'Data Analyst and Web Developer | Security Researcher',
+  currentGoal: 'Analyzing data, building secure web apps',
+  hobbies: ['Data Analysis', 'Web Development', 'Open Source']
 }
-```
 
 ---
 
