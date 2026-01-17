@@ -1,4 +1,4 @@
-# 👋 Data Analyst and Web Developer | Cybersecurity Enthusiast
+# 👋 Data Analyst & Full-Stack Developer | Cybersecurity Enthusiast
 ```
 const ruchir = {
   location: 'Ahmedabad, Gujarat 🇮🇳',
@@ -69,7 +69,7 @@ Python-based Ransomware Detection System
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ganatra-ruchir-61a2a2358)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruchir-ganatra)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white)](https://ruchirganatra.medium.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/ruchirganatra)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Ganatra-Ruchir)
