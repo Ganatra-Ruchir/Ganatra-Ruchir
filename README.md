@@ -1,81 +1,51 @@
-# 👋 Data Analyst & Full-Stack Developer | Cybersecurity Enthusiast
-```
-const ruchir = {
-  location: 'Ahmedabad, Gujarat 🇮🇳',
-  role: 'Data Analyst and Web Developer | Security Researcher',
-  currentGoal: 'Analyzing data, building secure web apps',
-  hobbies: ['Data Analysis', 'Web Development', 'Open Source']
-}
+# **Ruchir Ganatra**
+
+## **About Me**
+I’m a **5th-semester IT Diploma student** at **Aditya Silver Oak, Ahmedabad**, building skills in **full-stack development**, **data analytics**, and **AI/LLM-based applications**.
+
+I’ve completed a **15-day full-stack web development internship** using **Python & Django**, where I worked on real projects under deadlines and learned to ship features in a team environment.
+
+I enjoy **solving SQL challenges** involving **joins, CTEs, and subqueries**, and I’m actively building **dashboard and analytics projects** using **real-world datasets** (Superstore, Kaggle, etc.).
+
+Right now I’m focused on:
+- **Python**, **SQL**, **Django**, **React**
+- **Power BI** and **data visualization**
+- **AI/LLM assistants** and practical automation projects
+
+I’m **open to internships** where I can **build real products**, **learn fast**, and grow as a **developer and data-focused problem solver**.
 
 ---
 
-## 🛠️ Tech Stack
+## **Tech Stack**
 
-**Frontend:** React.js • TypeScript • Tailwind CSS • Next.js
+**Languages**
+- **Python**, **SQL**, **JavaScript**
 
-**Backend:** Python • Node.js • Django • FastAPI • Express.js
+**Backend**
+- **Django**, **Django REST Framework**
 
-**Security:** Cybersecurity • Penetration Testing • OWASP Top 10 • Encryption
+**Frontend**
+- **React**, **HTML5**, **CSS3**, **Tailwind CSS**
 
-**DevOps:** Docker • Kubernetes • CI/CD • GitHub Actions
+**Data & Analytics**
+- **Pandas**, **NumPy**, **Matplotlib**
+- **Power BI**, **Excel**
+- Working with **Kaggle / Superstore datasets**
 
-**Databases:** MySQL • MongoDB • Firebase
----
-
-## 🚀 Featured Projects
-
-### [🔐 SecureChain](https://github.com/Ganatra-Ruchir/SecureChain)
-Enterprise-Grade DeFi Security Platform | AI-Powered Smart Contract Auditing
-- React + Node.js + Solidity
-- Real-time Threat Detection
-- Multi-chain Portfolio Risk Management
-
-### [🦠 Vulnerability-Scanner](https://github.com/Ganatra-Ruchir/Vulnerability-Scanner)
-Python-based Cybersecurity Scanning Tool
-- Nmap + OWASP ZAP Integration
-- System Information Gathering
-- Kali/Parrot OS Optimized
-
-### [🛡️ SecureVault](https://github.com/Ganatra-Ruchir/SecureVault)
-Encrypted Password Manager
-- AES-256 Encryption
-- Master Password Protection
-- CLI Interface
-
-### [🎯 ransomware-canary-detector](https://github.com/Ganatra-Ruchir/ransomware-canary-detector)
-Python-based Ransomware Detection System
-- Monitors sensitive file directories
-- Real-time alerts for suspicious activity
-- Canary file detection mechanism
+**AI & Tools**
+- Exploring **LLMs** and tools like **Ollama**
+- **Git**, **GitHub**, **VS Code**
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganatra-Ruchir&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganatra-Ruchir&layout=compact&theme=dark)
-
----
-
-## 🏆 Achievements
-
-- 💻 Multiple cybersecurity projects with 100+ hours invested
-- 🔒 Focus on secure coding & threat detection
-- 📚 Continuous learner | React | Python | Security
-- 🎓 Silver Oak Institute of Technology
+## **What I’m Working On**
+- Building **dashboards and analytics projects** from public datasets  
+- Practicing **advanced SQL queries** to strengthen logic  
+- Experimenting with **AI assistants** and automation ideas  
 
 ---
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruchir-ganatra)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white)](https://ruchirganatra.medium.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/ruchirganatra)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Ganatra-Ruchir)
-
----
-
-⭐ **Fun fact:** I code at 4AM when the world is quiet and ideas flow freely! 🌙💡
-
-*Last updated: January 2026*
+## **Get in Touch**
+- **LinkedIn:** [linkedin.com/in/ganatra-ruchir](https://www.linkedin.com/in/ganatra-ruchir-61a2a2358)  
+- **Medium:** [ruchirganatra.medium.com](https://ruchirganatra.medium.com)  
+- **Location:** Ahmedabad, India  
