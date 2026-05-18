@@ -1,7 +1,7 @@
 # **Ruchir Ganatra**
 
 ## **About Me**
-I’m a **5th-semester IT Diploma student** at **Aditya Silver Oak, Ahmedabad**, building skills in **full-stack development**, **data analytics**, and **AI/LLM-based applications**.
+I’m a **6th-semester IT Diploma student** at **Aditya Silver Oak, Ahmedabad**, building skills in **full-stack development**, **data analytics**, and **AI/LLM-based applications**.
 
 I’ve completed a **15-day full-stack web development internship** using **Python & Django**, where I worked on real projects under deadlines and learned to ship features in a team environment.
 
