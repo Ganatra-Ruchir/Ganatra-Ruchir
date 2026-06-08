@@ -1,11 +1,9 @@
 # **Ruchir Ganatra**
 
 ## **About Me**
-I’m a **6th-semester IT Diploma student** at **Aditya Silver Oak, Ahmedabad**, building skills in **full-stack development**, **data analytics**, and **AI/LLM-based applications**.
+I’m currently working at **Elixir, Ahmedabad**, where I’m gaining practical industry experience.
 
-I’ve completed a **15-day full-stack web development internship** using **Python & Django**, where I worked on real projects under deadlines and learned to ship features in a team environment.
-
-I enjoy **solving SQL challenges** involving **joins, CTEs, and subqueries**, and I’m actively building **dashboard and analytics projects** using **real-world datasets** (Superstore, Kaggle, etc.).
+I’m building skills in **full-stack development**, **data analytics**, and **AI-powered applications**.
 
 Right now I’m focused on:
 - **Python**, **SQL**, **Django**, **React**
