@@ -1,49 +1,27 @@
-# **Ruchir Ganatra**
+# Hi, I’m Ruchir Ganatra 
 
-## **About Me**
-I’m currently working at **Elixir, Ahmedabad**, where I’m gaining practical industry experience.
+**Data Analyst & Junior Data Scientist** from Ahmedabad, India — turning data into decisions and dashboards into useful systems.
 
-I’m building skills in **full-stack development**, **data analytics**, and **AI-powered applications**.
+## What I do
 
-Right now I’m focused on:
-- **Python**, **SQL**, **Django**, **React**
-- **Power BI** and **data visualization**
-- **AI/LLM assistants** and practical automation projects
+- Analyze data with Python, SQL and machine learning basics
+- Build dashboards in Power BI
+- Explore AI-driven analytics, semantic layers and conversational BI
+- Automate workflows and improve reporting systems
 
-I’m **open to internships** where I can **build real products**, **learn fast**, and grow as a **developer and data-focused problem solver**.
+## Current work
 
----
+- Data Analyst & Web Developer at Elixir Foundation (NGO)
+- Writing about AI + data analytics on Medium
+- Learning cybersecurity to better understand secure systems and data pipelines
 
-## **Tech Stack**
+## Tech stack
 
-**Languages**
-- **Python**, **SQL**, **JavaScript**
+- **Languages:** Python, SQL
+- **Data:** pandas, numpy, scikit-learn, Power BI
+- **Other:** Git/GitHub, automation tools, cloud basics
 
-**Backend**
-- **Django**, **Django REST Framework**
+## Find me online
 
-**Frontend**
-- **React**, **HTML5**, **CSS3**, **Tailwind CSS**
-
-**Data & Analytics**
-- **Pandas**, **NumPy**, **Matplotlib**
-- **Power BI**, **Excel**
-- Working with **Kaggle / Superstore datasets**
-
-**AI & Tools**
-- Exploring **LLMs** and tools like **Ollama**
-- **Git**, **GitHub**, **VS Code**
-
----
-
-## **What I’m Working On**
-- Building **dashboards and analytics projects** from public datasets  
-- Practicing **advanced SQL queries** to strengthen logic  
-- Experimenting with **AI assistants** and automation ideas  
-
----
-
-## **Get in Touch**
-- **LinkedIn:** [linkedin.com/in/ganatra-ruchir](https://www.linkedin.com/in/ganatra-ruchir-61a2a2358)  
-- **Medium:** [ruchirganatra.medium.com](https://ruchirganatra.medium.com)  
-- **Location:** Ahmedabad, India  
+- LinkedIn: [Ruchir Ganatra](https://www.linkedin.com/in/ruchir-ganatra-61a2a2358/?isSelfProfile=true)
+- Medium: [@ruchirganatra](https://medium.com/@ruchirganatra)
